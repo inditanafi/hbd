@@ -154,10 +154,10 @@ a {
   width: 600px;
 }
 
-.text-box p {
+.text-box .hbd-chatbox {
   margin: 0;
-  text-align: left;
-  color: white;
+/*   text-align: justify; */
+  color: #aaaa;
 }
 
 .text-box span {
